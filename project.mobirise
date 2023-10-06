@@ -47,23 +47,18 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "favicon": false,
-    "mbrsiteDomain": "jqabymoiq1",
+    "mbrsiteDomain": "1nwbsuziba",
     "imageResize": true,
     "usedWebp": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
     "uniqCompNum": 24,
     "versionPublish": "5.9.4",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
