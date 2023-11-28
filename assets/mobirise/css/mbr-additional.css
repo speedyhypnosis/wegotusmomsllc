@@ -1526,6 +1526,57 @@ a {
   padding-bottom: 1rem;
   background-color: #ffe885;
 }
+.cid-tWSwVv7Hbd {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #2e481a;
+}
+.cid-tWSwVv7Hbd .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tWSwVv7Hbd .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tWSwVv7Hbd .card-wrapper {
+  overflow: hidden;
+  background: #edefeb;
+}
+.cid-tWSwVv7Hbd .text-wrapper {
+  padding: 4rem 3rem;
+}
+@media (max-width: 767px) {
+  .cid-tWSwVv7Hbd .text-wrapper {
+    padding: 1.5rem;
+  }
+}
+.cid-tWSwVv7Hbd .row {
+  align-items: center;
+  margin-right: -1rem;
+  margin-left: -1rem;
+}
+.cid-tWSwVv7Hbd .row {
+  flex-direction: row-reverse;
+}
+.cid-tWSwVv7Hbd .image-wrapper {
+  padding: 0 0.75rem;
+}
+.cid-tWSwVv7Hbd img,
+.cid-tWSwVv7Hbd .image-wrapper {
+  height: 600px;
+  object-fit: cover;
+}
+.cid-tWSwVv7Hbd .mbr-section-title {
+  color: #b20c0c;
+}
+.cid-tWSwVv7Hbd .mbr-text {
+  color: #000000;
+}
 .cid-tDbneviqP9 {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -1567,31 +1618,6 @@ a {
 .cid-tDbneviqP9 .card .card-header {
   background-color: transparent;
   margin-bottom: 0;
-}
-.cid-tWRrrhhpKd {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-tWRrrhhpKd .fb-page,
-.cid-tWRrrhhpKd span,
-.cid-tWRrrhhpKd iframe {
-  width: 500px;
-  height: 620px;
-}
-.cid-tWRrrhhpKd blockquote {
-  display: none;
-}
-.cid-tWRrrhhpKd .fb-page {
-  background-color: #1877f2;
-  border-radius: 4px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  color: #fff;
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMinYMin meet' viewBox='0 0 262 266.895'><path id='path3087' fill='%23fff' d='M182.409,262.307v-99.803h33.499l5.016-38.895h-38.515V98.777c0-11.261,3.127-18.935,19.275-18.935 l20.596-0.009V45.045c-3.562-0.474-15.788-1.533-30.012-1.533c-29.695,0-50.025,18.126-50.025,51.413v28.684h-33.585v38.895h33.585 v99.803H182.409z'></path></svg>");
-}
-.cid-tWRrrhhpKd .mbr-section-title {
-  color: #e43f3f;
 }
 .cid-tDnEyf9Eqp {
   padding-top: 1rem;
