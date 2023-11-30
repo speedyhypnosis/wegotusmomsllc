@@ -1047,15 +1047,15 @@ a {
     left: -1rem;
   }
 }
-.cid-tDbkhI01h2 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-image: url("../../../assets/images/we-got-us-moms-llc-seattle-2023-b5.webp");
+.cid-tX6ePfGjGT {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-image: url("../../../assets/images/we-got-us-moms-llc-seattle-washington-stop-the-gun-violence-2023-1920x1080.webp");
 }
-.cid-tDbkhI01h2 .mbr-fallback-image.disabled {
+.cid-tX6ePfGjGT .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tDbkhI01h2 .mbr-fallback-image {
+.cid-tX6ePfGjGT .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1064,23 +1064,22 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tDbkhI01h2 .mbr-section-title,
-.cid-tDbkhI01h2 .mbr-text,
-.cid-tDbkhI01h2 .mbr-section-btn {
-  text-align: center;
-}
-.cid-tDbkhI01h2 .video-wrapper {
-  margin: auto;
-}
-.cid-tDbkhI01h2 .video-wrapper iframe {
+.cid-tX6ePfGjGT .image-wrap img {
   width: 100%;
 }
-.cid-tDbkhI01h2 .mbr-section-title {
-  color: #ffe161;
+@media (min-width: 992px) {
+  .cid-tX6ePfGjGT .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 80%;
+  }
 }
-.cid-tDbkhI01h2 .mbr-text,
-.cid-tDbkhI01h2 .mbr-section-btn {
+.cid-tX6ePfGjGT .mbr-text,
+.cid-tX6ePfGjGT .mbr-section-btn {
   color: #ffffff;
+}
+.cid-tX6ePfGjGT .mbr-section-title {
+  color: #ffe161;
 }
 .cid-tWSWDaFkMu {
   padding-top: 1rem;
