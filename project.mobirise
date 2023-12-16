@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "We Got Us Moms 2023",
-    "currentPage": "finding-hope.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -48,12 +48,12 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "favicon": false,
-    "mbrsiteDomain": "fzfnrzw6de",
+    "mbrsiteDomain": "f2isfvmity",
     "imageResize": true,
     "usedWebp": true,
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://speedyhypnosis.github.io/wegotusmomsllc/",
     "uniqCompNum": 37,
     "versionPublish": "5.9.4",
     "screenshot": "screenshot.png",
